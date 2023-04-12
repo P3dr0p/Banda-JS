@@ -1,0 +1,27 @@
+body{
+    background-color: #181818;
+}
+
+.Título-P{
+    text-align: center;
+    font-size: 90px;
+    color: white;
+}
+
+.Banda-G{
+    position: fixed;
+
+    top: 200px;
+    right: 0px;
+    left: 350px;
+    bottom: 100px;
+}
+
+.Banda-Q{
+    position: fixed;
+
+    top: 200px;
+    right: 0px;
+    left: 860px;
+    bottom: 100px;
+}
